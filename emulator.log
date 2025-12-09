@@ -1,0 +1,7 @@
+{"timestamp": "2025-12-10T02:32:47.424873", "command": "ls", "args": ["/"], "error": null}
+{"timestamp": "2025-12-10T02:32:47.425061", "command": "cd", "args": ["/dir1"], "error": null}
+{"timestamp": "2025-12-10T02:32:47.425125", "command": "ls", "args": [], "error": null}
+{"timestamp": "2025-12-10T02:32:47.425178", "command": "cat", "args": ["file2.txt"], "error": null}
+{"timestamp": "2025-12-10T02:32:47.425229", "command": "whoami", "args": [], "error": null}
+{"timestamp": "2025-12-10T02:32:47.425273", "command": "date", "args": [], "error": null}
+{"timestamp": "2025-12-10T02:32:57.872625", "command": "exit", "args": [], "error": null}

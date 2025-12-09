@@ -1,0 +1,7 @@
+# Тестовый скрипт
+ls /
+cd /dir1
+ls
+cat file2.txt
+whoami
+date
