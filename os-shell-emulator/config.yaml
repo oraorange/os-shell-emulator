@@ -1,3 +1,0 @@
-vfs_path: "./vfs.zip"
-log_path: "./emulator.log"
-startup_script: "./startup.txt"
